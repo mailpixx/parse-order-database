@@ -1,6 +1,7 @@
-# parse-server-example
+# parse-order-database
 
-Example project using the [parse-server](https://github.com/ParsePlatform/parse-server) module on Express.
+Mailpix Parse server for order tracking in cvs apps
+Forked from example project using the [parse-server](https://github.com/ParsePlatform/parse-server) module on Express.
 
 Read the full Parse Server guide here: https://github.com/ParsePlatform/parse-server/wiki/Parse-Server-Guide
 
